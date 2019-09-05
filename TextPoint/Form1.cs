@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace TextPoint
 {
+    // This is a form.
     public partial class FRMMain : Form
     {
         public FRMMain()
