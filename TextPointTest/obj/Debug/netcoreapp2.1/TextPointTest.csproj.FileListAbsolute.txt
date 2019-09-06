@@ -1,0 +1,4 @@
+X:\wb1\Workshop1\TextPointTest\obj\Debug\netcoreapp2.1\TextPointTest.csprojAssemblyReference.cache
+X:\wb1\Workshop1\TextPointTest\obj\Debug\netcoreapp2.1\TextPointTest.csproj.CoreCompileInputs.cache
+X:\wb1\Workshop1\TextPointTest\obj\Debug\netcoreapp2.1\TextPointTest.AssemblyInfoInputs.cache
+X:\wb1\Workshop1\TextPointTest\obj\Debug\netcoreapp2.1\TextPointTest.AssemblyInfo.cs
