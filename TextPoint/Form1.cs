@@ -45,5 +45,10 @@ namespace TextPoint
                 File.WriteAllText(sfd.FileName, RTBText.Text);
             }
         }
+
+        private void RTBText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
